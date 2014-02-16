@@ -3,7 +3,7 @@ public class pyramid {
 	public static void main (String args[])
 	{
 	  //set the number of lines your pyramid want to have
-		int lines=8; 
+		int lines=7; 
 		
 		//... and start the for loops
 		//first loop is which line to take 1,2,3.... and so own
